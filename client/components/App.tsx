@@ -1,8 +1,17 @@
 function App() {
   return (
     <div>
-      <h1>App</h1>
-      <p>React development has begun!</p>
+      <header>
+        <h1>My Dev Career Plan</h1>
+        <p>React development has begun!</p>
+      </header>
+      <main>
+
+      </main>
+      <footer>
+        Created By Danica Taylor
+      </footer>
+
     </div>
   )
 }
